@@ -1,4 +1,4 @@
-# Initial task flow firewood permits
+# Initial task flow for firewood permits
 Our goal in this round of research was to create a MVP, end-to-end online firewood permitting process that let us explore our prioritized user stories and test an online process with permit purchasers.
 
 ## User stories
