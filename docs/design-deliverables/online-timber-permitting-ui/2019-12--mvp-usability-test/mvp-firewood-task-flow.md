@@ -27,7 +27,7 @@ For the purposes of this prototype, we focused primarily on permit purchaser nee
 ## Comparing online Christmas tree permits and the Dec 2019 firewood permit MVP
 Our initial firewood MVP explored how the existing online Christmas tree permitting task flow could be extended to firewood permits. For this initial prototype, we kept the same basic flow but made adjustments for firewood permits' unique content and processing needs. The prototype also explored how users could access multiple permit types on the same platform.
 
-Below is a comparison of the online Christmas tree permit task flow and what we tested in our Dec 2019 firewood permit MVP, and why we chose to make divergent design decisions.
+Below is a comparison of the online Christmas tree permit task flow and what we tested in our Dec 2019 firewood permit MVP, and why we chose to make divergent design decisions for this iteration.
 
 | [Online Christmas tree permits](https://openforest.fs.usda.gov/christmas-trees/forests) |  [Firewood permit MVP, Dec 2019](https://gsa.invisionapp.com/share/R3VA86RNPWK) | Differences |
 |---|---|---|
