@@ -19,8 +19,10 @@ For the purposes of this prototype, we focused primarily on permit purchaser nee
 * As a permit purchaser, I need a secure way to enter required permit information online so that I can get my permit quickly.
 * As a permit purchaser, I need to understand how much the wood I’d like to harvest will cost, so that I understand how much money I’ll need to make the purchase.
 
-## Comparing online Christmas tree permits and our initial online firewood permit MVP
-Our initial firewood MVP explored if the existing online Christmas tree permitting task flow could be extended to firewood permits. For our initial MVP, we kept the same basic flow but made adjustments for firewood permits' unique content and processing needs. Our MVP task flow also explored how users could access multiple permit types on the same platform.
+## Comparing online Christmas tree permits and the Dec 2019 firewood permit MVP
+Our initial firewood MVP explored how the existing online Christmas tree permitting task flow could be extended to firewood permits. For this initial prototype, we kept the same basic flow but made adjustments for firewood permits' unique content and processing needs. The prototype also explored how users could access multiple permit types on the same platform.
+
+Below is a comparison of the online Christmas tree permit task flow and what we tested in our Dec 2019 firewood permit MVP, and why we chose to make divergent design decisions.
 
 | [Online Christmas tree permits](https://openforest.fs.usda.gov/christmas-trees/forests) |  [Firewood permit MVP, Dec 2019](https://gsa.invisionapp.com/share/R3VA86RNPWK) | Differences |
 |---|---|---|
