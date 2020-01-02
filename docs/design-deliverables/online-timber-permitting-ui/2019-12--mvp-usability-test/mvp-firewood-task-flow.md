@@ -16,7 +16,6 @@ The 18F and Forest Service team wrote user stories based on our initial field re
 * As a permit purchaser, I need to be able to choose a permit for the product I want and the area in which I intend to get it so that I can get my product legally.
 * As a permit purchaser, I need a secure way to enter required permit information online so that I can get my permit quickly.
 * As a permit purchaser, I need to understand how much the wood I’d like to harvest will cost, so that I understand how much money I’ll need to make the purchase.
-* As an infirmed permittee, I need to know where I can more easily harvest fuelwood.
 
 ## Differences between Christmas tree permits and firewood permits
 We wanted to explore if the existing online Christmas tree permitting task flow could be extended to firewood permits. We kept the same basic flow, but made adjustments for firewood permits's unique content and processing needs. This task flow also explored how users could access multiple permit types on the same platform.
