@@ -1,7 +1,12 @@
 # Task flow for Dec 2019 firewood permit MVP
 Our goal in this round of research was to test our minimum viable product (MVP) for selling firewood permits online with permit purchasers. 
 
-The MVP online firewood permitting process was created by writing user stories as a team based on earlier field research. These stories were then prioritized by what would be most important for an MVP firewood permitting application, versus what would be important in future stages. Our product roadmap details more about how we arrived at this MVP. [placeholder link]
+The MVP online firewood permitting process was created by writing user stories as a team based on earlier field research. These stories were then prioritized by what would be most important for an MVP firewood permitting application, versus what would be important in future stages. Our initial MVP assumes:
+* We're piloting an online firewood permit in forests with no (or very high) seasonal cord limit, no load tag required, and limited restrictions on where to cut (e.g., low sale activity).
+* We ask for the minimum amount of information needed to issue a permit.
+* We provide enough information to permit purchasers that they can cut firewood safely and legally.
+
+Our product roadmap details more about how we arrived at this MVP. [placeholder link]
 
 ## User stories
 For the purposes of this prototype, we focused primarily on permit purchaser needs.
